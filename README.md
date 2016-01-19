@@ -1,0 +1,2 @@
+# Dirim
+Hayatta Kalma Oyunu
